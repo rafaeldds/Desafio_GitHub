@@ -44,3 +44,14 @@ collaborate (see also: git help workflows)
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
+
+
+Obs:
+	Use o git clone com endereço para copiar o novo repositório.
+	Use git status para atualizar e ver as modificações.
+	Use o git add . para atualizar os documentos no local
+	Use o git commit -m "Comentário" para atualizar no remoto
+	Use git push origin main para enviar tudo para nuvem.
+	
+	
+	
